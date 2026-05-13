@@ -1,1 +1,82 @@
+Types of predictions AI can make
+->Narrow
+->Broad
+->General
+
+Aritificial Intelligence refers to an ability to learn patterns and make predictions 
+It doesnt replace human decision instead it adds value to the humans judgement
+
+Difference between Artificial Intelligence and Augmented Intelligence
+Augmented Intelligence:
+Enhances humans work rather replacing it entirely 
+Eg: Collision avoidance system in car - IA helps in detects the risk of collision and the human avoids it by turing the wheel
+
+Artificial intelligence:
+Replaces humans work - and are mostly independent while functioning
+Eg: Self driving cars
+
+The bests:
+Humans are good at
+->Emotional Intelligence
+->Generalization
+->Creativity
+
+Machines are good at
+->Massive data reading
+->Repetition
+->Accuracy
+
+AI is the big set in that ML is inside it and DL is inside ML like eggs
+
+Basic functionality of AI is to analyse massive data and make predictions like 
+"From the above situation these probable outcomes may occur..." (analysis + prediction)
+
+Explanation of types of AI based on predictions
+->Narrow (2010-15)
+The type of AI which is usefull at only one field (specialist) but dumb in other fields
+Eg: chess AI
+->Broad (current)
+Its the versatile specialist of Narrow AI like ChatGPT, its really advanced but not in a great level
+->General (future)
+The AI which is "self aware" and has equal or more that human intelligence 
+Eg: Terminator
+
+What are the three Eras of computing?
+Era of tabulation, programming then AI
+
+->The datas which are collected but never used for any purpose is called DARK DATA
+->The data (information) about the other data is called META DATA
+
+Three types of data
+->Structured : These are the well organized and clean data which is less complex and easy to analyse 
+Eg: Names, Data, Address
+
+->Unstructured : These are also called dark data and doesnt have proper meaning or relation (not organized) 
+Eg: Images, Videos, messages
+
+->Semi-structured : These lies between structured and unstructed in which they are more complex then structured and yet easier to store 
+than unstructured, these uses meta data to identify the real data
+Eg: videos from youtube are unstructured but they are made semi by having a caption/hashtag to identify the video
+
+->Almost 80% of the datas are dark data and 95% of the companies are working on it to make it structured and stuff
+
+Why machine learning is better than programmable computers?
+ML can predict and learn.
+
+->Programmable computers are deterministic either they say YES or NO and actions are taken accordingly (binary)
+But ML is probabilistic - its a wave between 0 to 1, it says response like "I'm 86% sure that this could happen"
+
+How does ML learn, their types
+->Supervised learning
+Eg: An image (data) is provided and then its labelled as dog - several times, after training it know what dog exactly is
+
+->Unsupervised learning 
+Datas are given without any labelling and ML itself somehow finds the relation between datas and makes a clusters (several group)
+which aren't exact correct answer
+- This type is used when the human itself does'nt know the relation or label of the data
+
+->Reinforcement learning
+Trial and Error approach - Eg: mouse maze solver - hit wall = point-10, propogation towards goal = points+10
+
+
 
